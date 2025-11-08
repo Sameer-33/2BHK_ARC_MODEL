@@ -1,5 +1,8 @@
 # 2BHK_ARC_MODEL
 🔍 Project Highlights and Details:
+<img width="651" height="650" alt="Screenshot 2025-04-28 114927" src="https://github.com/user-attachments/assets/a1622ef2-1346-4e27-a1e3-6f00f909c72c" />
+
+
 1️⃣ Walkthroughs and Refinements:
 Using Revit’s advanced tools, I explored walkthroughs and project navigation to visualize the design in real time, allowing for continual refinements to align with project goals.
 The visibility settings and sectional views offered deep insights into both the macro and micro-level aspects of the project.
