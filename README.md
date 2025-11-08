@@ -1,6 +1,5 @@
 # 2BHK_ARC_MODEL
 🔍 Project Highlights and Details:
-<img width="651" height="650" alt="Screenshot 2025-04-28 114927" src="https://github.com/user-attachments/assets/a1622ef2-1346-4e27-a1e3-6f00f909c72c" />
 
 
 1️⃣ Walkthroughs and Refinements:
